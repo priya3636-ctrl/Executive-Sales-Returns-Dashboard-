@@ -1,0 +1,6 @@
+{
+  "name": "Executive Sales & Returns Analytics",
+  "description": "Executive retail sales and returns analytics dashboard converted from Microsoft Power BI, featuring interactive KPI tracking, geospatial state analysis, and return reason diagnostics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
